@@ -9,7 +9,7 @@
   "author": "David Cruchon & Thierry Otto",
   "license": "MIT",
   "dependencies": {
-    "chance": "^1.0.18",
-    "express": "^4.17.0"
+    "express": "^4.17.0",
+    "faker": "^4.1.0"
   }
 }
